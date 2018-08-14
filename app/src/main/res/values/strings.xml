@@ -33,7 +33,7 @@
     <string name="net_limit_key" translatable="false">net_limit_key</string>
     <string name="net_used_key" translatable="false">net_used_key</string>
     <string name="net_free_limit_key" translatable="false">net_free_limit_key</string>
-    <string name="net_free_used_key" translatable="false">net_free_used_key</string>
+    <string name="net_free_used_key" translatable="false">net__free_used_key</string> 
     <!--> NO TRANSLATION <-->
 
     <string name="title_wallet">Wallet</string>
